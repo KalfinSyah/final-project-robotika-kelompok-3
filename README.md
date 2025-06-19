@@ -6,7 +6,7 @@
 
 ## 📝 Deskripsi  
 Repository ini berisi hasil akhir dan catatan log (logbook) pengerjaan Final Project untuk mata kuliah **Robotika**.  
-Proyek ini menggabungkan teknologi pemrograman robot dengan kecerdasan buatan (AI) berbasis *YOLOv8* untuk deteksi objek secara real-time dan pengendalian robot berbasis pengenalan visual.
+Proyek ini menggabungkan teknologi pemrograman robot dengan kecerdasan buatan (AI) berbasis *YOLOv8* untuk deteksi manusia secara realtime dan pengendalian robot.
 
 ---
 
