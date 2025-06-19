@@ -1,12 +1,17 @@
 # 🤖 Robotika  
-**Nama:** Kalfin Syah Kilau Mayya  
-**NIM:** 22081010251  
+**Nama :** Kalfin Syah Kilau Mayya  
+**NIM :** 22081010251  
 
 ---
 
 ## 📝 Deskripsi  
 Repository ini berisi hasil akhir dan catatan log (logbook) pengerjaan Final Project untuk mata kuliah **Robotika**.  
-Proyek ini menggabungkan teknologi pemrograman robot dengan kecerdasan buatan (AI) berbasis *YOLOv8* untuk deteksi objek secara real-time dan pengendalian robot berbasis pengenalan visual.
+Proyek ini menggabungkan teknologi pemrograman robot dengan kecerdasan buatan (AI) berbasis *YOLOv8* untuk deteksi manusia secara realtime dan pengendalian robot.
+
+---
+
+## 📽️
+Link video praktik UAS : https://drive.google.com/drive/folders/1HayTDdwoYTi72so7CHPkwnWIxDgeYM-f
 
 ---
 
@@ -14,10 +19,10 @@ Proyek ini menggabungkan teknologi pemrograman robot dengan kecerdasan buatan (A
 
 | File / Folder     | Deskripsi                                                                 |
 |-------------------|---------------------------------------------------------------------------|
-| `main.ipynb`      | Notebook Jupyter utama berisi implementasi AI robot berbasis YOLOv8      |
-| `BNU5/`           | Folder berisi kode dan skrip pengendalian robot fisik     |
-| `yolov8n.pt`      | Model YOLOv8 versi nano yang digunakan untuk deteksi objek                |
-| `LOGBOOK.pdf`     | Catatan harian dan pengerjaan Final Project                           |
+| `main.ipynb`      | Notebook Jupyter utama berisi implementasi AI robot berbasis YOLOv8 (final project) |
+| `BNU5/`           | Folder berisi kode dan skrip pengendalian robot fisik (final project) |
+| `yolov8n.pt`      | Model YOLOv8 versi nano yang digunakan untuk deteksi objek (final project) |
+| `LOGBOOK/`        | Folder berisi catatan harian |
 
 ---
 
