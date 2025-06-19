@@ -1,4 +1,4 @@
-# 🤖 Final Project - Sistem Informasi Robotika  
+# 🤖 Robotika  
 **Nama:** Kalfin Syah Kilau Mayya  
 **NIM:** 22081010251  
 
@@ -17,7 +17,7 @@ Proyek ini menggabungkan teknologi pemrograman robot dengan kecerdasan buatan (A
 | `main.ipynb`      | Notebook Jupyter utama berisi implementasi AI robot berbasis YOLOv8      |
 | `BNU5/`           | Folder berisi kode dan skrip pengendalian robot fisik     |
 | `yolov8n.pt`      | Model YOLOv8 versi nano yang digunakan untuk deteksi objek                |
-| `LOGBOOK.pdf`     | Catatan harian proses pengerjaan Final Project                           |
+| `LOGBOOK.pdf`     | Catatan harian dan pengerjaan Final Project                           |
 
 ---
 
@@ -30,7 +30,6 @@ Proyek ini menggabungkan teknologi pemrograman robot dengan kecerdasan buatan (A
 ---
 
 ## 🚀 Cara Menjalankan
-1. **Clone repository** ini:
-   ```bash
-   git clone https://github.com/kalfinsyah/final-project-robotika.git
-   cd final-project-robotika
+```bash
+git clone https://github.com/kalfinsyah/final-project-robotika.git
+cd final-project-robotika
