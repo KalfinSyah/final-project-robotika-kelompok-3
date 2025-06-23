@@ -22,7 +22,7 @@ Link video praktik UAS : https://drive.google.com/drive/folders/1HayTDdwoYTi72so
 | `main.ipynb`      | Notebook Jupyter utama berisi implementasi AI robot berbasis YOLOv8 (final project) |
 | `BNU5/`           | Folder berisi kode dan skrip pengendalian robot fisik (final project) |
 | `yolov8n.pt`      | Model YOLOv8 versi nano yang digunakan untuk deteksi objek (final project) |
-| `LOGBOOK/`        | Folder berisi catatan harian |
+| `LOGBOOK/`        | Folder berisi catatan harian hingga UAS |
 
 ---
 
